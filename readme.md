@@ -1,6 +1,5 @@
-###################
-Upload Multiple Images Files in Codeigniter
-###################
+# Upload Multiple Images Files in Codeigniter
+
 
 ![Capture Image](https://github.com/bwhitedev/upload-multiple-images-php/blob/master/image.jpg)
 
