@@ -2,7 +2,7 @@
 Upload Multiple Images Files in Codeigniter
 ###################
 
-![Capture Image](https://github.com/bwhitedev/upload-multiple-images-php/blob/master/image.png)
+![Capture Image](https://github.com/bwhitedev/upload-multiple-images-php/blob/master/image.jpg)
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
